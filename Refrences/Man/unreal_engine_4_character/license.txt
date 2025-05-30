@@ -1,0 +1,11 @@
+Model Information:
+* title:	Unreal Engine 4 Character
+* source:	https://sketchfab.com/3d-models/unreal-engine-4-character-815b7d1a78f646e3a1614236351377a4
+* author:	Anthony (https://sketchfab.com/antoman29)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Unreal Engine 4 Character" (https://sketchfab.com/3d-models/unreal-engine-4-character-815b7d1a78f646e3a1614236351377a4) by Anthony (https://sketchfab.com/antoman29) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
